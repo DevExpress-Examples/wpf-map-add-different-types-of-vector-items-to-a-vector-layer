@@ -26,7 +26,7 @@ This example adds the following vector items to a vector layer:
 ## Documentation
 
 * [Layers](https://docs.devexpress.com/WPF/10887/controls-and-libraries/map-control/layers)
-* 
+
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
