@@ -9,7 +9,15 @@
 
 This example adds the following vector items to a vector layer:
 
-<br />- <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapCustomElementtopic">MapCustomElement</a> <br />- <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapDottopic">MapDot</a><br />- <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapEllipsetopic">MapEllipse</a><br />- <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapLinetopic">MapLine</a><br />- <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapPathtopic">MapPath</a><br />- <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapPolygontopic">MapPolygon</a><br />- <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapPolylinetopic">MapPolyline</a><br />- <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapPushpintopic">MapPushpin</a><br />- <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapRectangletopic">MapRectangle</a>.
+- [MapCustomElement](https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapCustomElementtopic)
+- [MapDot](https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapDottopic)
+- [MapEllipse](https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapEllipsetopic)
+- [MapLine](https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapLinetopic)
+- [MapPath](https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapPathtopic)
+- [MapPolygon](https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapPolygontopic)
+- [MapPolyline](https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapPolylinetopic)
+- [MapPushpin](https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapPushpintopic)
+- [MapRectangle](https://documentation.devexpress.com/#WPF/clsDevExpressXpfMapMapRectangletopic)
 
 ## Files to Review
 
@@ -18,8 +26,7 @@ This example adds the following vector items to a vector layer:
 ## Documentation
 
 * [Layers](https://docs.devexpress.com/WPF/10887/controls-and-libraries/map-control/layers)
-
-
+* 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
