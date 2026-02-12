@@ -28,7 +28,7 @@ This example adds the following vector items to a vector layer:
 * [Layers](https://docs.devexpress.com/WPF/10887/controls-and-libraries/map-control/layers)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-map-add-different-types-of-vector-items-to-a-vector-layer&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-map-add-different-types-of-vector-items-to-a-vector-layer&~~~was_helpful=no)
 
